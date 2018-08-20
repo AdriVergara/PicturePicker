@@ -1,0 +1,12 @@
+C:\Users\adrian.vergara\source\repos\Picture Picker\PicturePicker\PicturePicker\PicturePicker\PicturePicker\bin\Debug\netstandard2.0\PicturePicker.deps.json
+C:\Users\adrian.vergara\source\repos\Picture Picker\PicturePicker\PicturePicker\PicturePicker\PicturePicker\bin\Debug\netstandard2.0\PicturePicker.dll
+C:\Users\adrian.vergara\source\repos\Picture Picker\PicturePicker\PicturePicker\PicturePicker\PicturePicker\bin\Debug\netstandard2.0\PicturePicker.pdb
+C:\Users\adrian.vergara\source\repos\Picture Picker\PicturePicker\PicturePicker\PicturePicker\PicturePicker\obj\Debug\netstandard2.0\PicturePicker.csprojAssemblyReference.cache
+C:\Users\adrian.vergara\source\repos\Picture Picker\PicturePicker\PicturePicker\PicturePicker\PicturePicker\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\adrian.vergara\source\repos\Picture Picker\PicturePicker\PicturePicker\PicturePicker\PicturePicker\obj\Debug\netstandard2.0\Views\PicturePickerView.xaml.g.cs
+C:\Users\adrian.vergara\source\repos\Picture Picker\PicturePicker\PicturePicker\PicturePicker\PicturePicker\obj\Debug\netstandard2.0\PicturePicker.csproj.CoreCompileInputs.cache
+C:\Users\adrian.vergara\source\repos\Picture Picker\PicturePicker\PicturePicker\PicturePicker\PicturePicker\obj\Debug\netstandard2.0\PicturePicker.AssemblyInfoInputs.cache
+C:\Users\adrian.vergara\source\repos\Picture Picker\PicturePicker\PicturePicker\PicturePicker\PicturePicker\obj\Debug\netstandard2.0\PicturePicker.AssemblyInfo.cs
+C:\Users\adrian.vergara\source\repos\Picture Picker\PicturePicker\PicturePicker\PicturePicker\PicturePicker\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\adrian.vergara\source\repos\Picture Picker\PicturePicker\PicturePicker\PicturePicker\PicturePicker\obj\Debug\netstandard2.0\PicturePicker.dll
+C:\Users\adrian.vergara\source\repos\Picture Picker\PicturePicker\PicturePicker\PicturePicker\PicturePicker\obj\Debug\netstandard2.0\PicturePicker.pdb
