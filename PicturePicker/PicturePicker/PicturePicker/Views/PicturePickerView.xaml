@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PicturePicker.Views.PicturePickerView">
+    <StackLayout>
+
+        <StackLayout HeightRequest="50" BackgroundColor="Blue">
+            <Label Text="Picture Picker" TextColor="White" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Margin="5"/>
+        </StackLayout>
+
+        <StackLayout Margin="10">
+            <Button Text="Select Image From Gallery" Command="{Binding AddImage}" HeightRequest="40"/>
+
+            <StackLayout Orientation="Vertical">
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="File name: " />
+                    <Label Text="{Binding FileName}" TextColor="Red"/>
+                </StackLayout>
+                
+                <Image Source="{Binding ImgSource}" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Aspect="AspectFit" Margin="5"/>
+            </StackLayout>
+        </StackLayout>
+
+    </StackLayout>
+</ContentPage>
